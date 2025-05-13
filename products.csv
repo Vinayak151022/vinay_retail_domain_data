@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+1,iPhone 14,Electronics,999.99
+2,Galaxy S22,Electronics,899.99
+3,MacBook Air,Computers,1199.99
+4,Surface Pro 8,Computers,1299.99
+5,AirPods Pro,Electronics,249.99
+6,Kindle Paperwhite,Electronics,139.99
+7,GoPro Hero 10,Cameras,399.99
+8,Dell XPS 13,Computers,999.99
+9,Apple Watch,Wearables,399.99
+10,Sony WH-1000XM4,Audio,349.99
