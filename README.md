@@ -1,0 +1,1 @@
+# vinay_retail_domain_data
